@@ -1,0 +1,18 @@
+2025-08-23 09:58:48 - root - DEBUG - This is a debug message
+2025-08-23 09:58:48 - root - INFO - This is an info message
+2025-08-23 09:58:48 - root - WARNING - This is a warning message
+2025-08-23 09:58:48 - root - CRITICAL - This is a critical message
+2025-08-23 09:58:48 - root - ERROR - This is an error message
+2025-08-23 09:58:48 - module1 - DEBUG - Debug message from module1
+2025-08-23 09:58:48 - module1 - INFO - Info message from module1
+2025-08-23 09:58:48 - module2 - WARNING - Warning message from module2
+2025-08-23 09:58:48 - module2 - ERROR - Error message from module2
+2025-08-23 09:59:46 - root - DEBUG - This is a debug message
+2025-08-23 09:59:46 - root - INFO - This is an info message
+2025-08-23 09:59:46 - root - WARNING - This is a warning message
+2025-08-23 09:59:46 - root - CRITICAL - This is a critical message
+2025-08-23 09:59:46 - root - ERROR - This is an error message
+2025-08-23 09:59:46 - module1 - DEBUG - Debug message from module1
+2025-08-23 09:59:46 - module1 - INFO - Info message from module1
+2025-08-23 09:59:46 - module2 - WARNING - Warning message from module2
+2025-08-23 09:59:46 - module2 - ERROR - Error message from module2
